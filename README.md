@@ -26,6 +26,6 @@ I'm a software engineering student at [42Rio](https://42.rio/) and a computer sc
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss geek related things and tech in general on [Instagram](https://www.instagram.com/hadamaalanis/).
+- Your future buddy to discuss geek related things and tech in general on [Instagram](https://www.instagram.com/alanis.hadama).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya](https://www.linkedin.com/in/alanis-hadama/))
 - And of course GitHub you're already on (Recursion).
