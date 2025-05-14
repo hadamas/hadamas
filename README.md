@@ -18,7 +18,7 @@ I'm a software engineering student at [42Rio](https://42.rio/) and a computer sc
 const alanis = {
   education:'Centro Federal de Educação Tecnológica - CEFET/RJ',
   interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling', 'Digital Art],
-  current:  'Learning Computer Science & Working as Full Stack Intern',
+  current:"Learning Computer Science & Working as Full Stack Intern",
   tech: {
     backend:  ['Javascript', 'Django', 'FastAPI', 'Node.js'],
     frontend: ['React.js', 'Vue.js', 'Tailwind CSS'],
