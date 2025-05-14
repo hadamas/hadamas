@@ -17,7 +17,8 @@ I'm a software engineering student at [42Rio](https://42.rio/) and a computer sc
 ```js
 const alanis = {
   education:'Centro Federal de Educação Tecnológica - CEFET/RJ',
-  interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling', 'Digital Art],
+  languages : ['Portuguese/fluent', 'English/Advanced', 'Japonese/N4', 'French/Basic'],
+  interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling', 'Digital Art'],
   current:"Learning Computer Science & Working as Full Stack Intern",
   tech: {
     backend:  ['Javascript', 'Django', 'FastAPI', 'Node.js'],
