@@ -21,9 +21,9 @@ const alanis = {
   interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling', 'Digital Art'],
   current:"Learning Computer Science & Working as Full Stack Intern",
   tech: {
-    backend:  ['Javascript', 'Django', 'FastAPI', 'Node.js'],
+    backend:  ['Javascript', 'MongoDB', 'Express.js', 'Node.js'],
     frontend: ['React.js', 'Vue.js', 'Tailwind CSS'],
-    cloud:    ['AWS', 'Azure', 'Docker', 'Linux'],
+    devops:    ['AWS', 'Azure', 'Docker', 'Linux'],
   },
 };
 ```
