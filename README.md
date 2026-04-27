@@ -18,12 +18,12 @@ I'm a software engineering student at [42Rio](https://42.rio/) and a computer sc
 const alanis = {
   education:'Centro Federal de Educação Tecnológica - CEFET/RJ',
   languages : ['Portuguese/fluent', 'English/Advanced', 'Japonese/N4', 'French/Basic'],
-  interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling', 'Digital Art'],
-  current:"Learning Computer Science & Working as Full Stack Intern",
+  interest :['FrontEnd', 'Full Stack Development', 'BackEnd', '3D Modeling'],
+  current:"Computer Science student & Working as Full Stack Developer",
   tech: {
-    backend:  ['Javascript', 'MongoDB', 'Express.js', 'Node.js'],
-    frontend: ['React.js', 'Vue.js', 'Tailwind CSS'],
-    devops:    ['AWS', 'Azure', 'Docker', 'Linux'],
+    backend:  ['Javascript', 'Node.js', 'PostgresSQL', 'REST APIs', 'Python', 'C', 'C++' ],
+    frontend: ['React.js', 'Vue.js', 'Tailwind CSS', 'Bootstrap'],
+    others:    ['AWS', 'Azure', 'Docker', 'Linux', 'RabbitMQ' ],
   },
 };
 ```
