@@ -85,16 +85,16 @@ Cloud, DevOps & Tools
 </h2>
 
 <p align="left"> 
-  <a href="#" target="https://www.linkedin.com/in/alanis-hadama/?locale=en-US">
+  <a href="https://www.linkedin.com/in/alanis-hadama/?locale=en-US" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-  <a href="#" target="https://www.instagram.com/alanis.hadama/">
+  <a href="https://www.instagram.com/alanis.hadama/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="#" target="https://www.tiktok.com/@guidebyhadi">
+  <a href="https://www.tiktok.com/@guidebyhadi" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="#" target="https://hadama.com.br">
+  <a href="https://hadama.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p> 
